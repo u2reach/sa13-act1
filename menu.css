@@ -1,0 +1,44 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f5f5f5; /* Set background color for the entire page */
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 20px; /* Add margin to separate header from content */
+}
+
+main {
+    padding: 20px;
+}
+
+section {
+    margin-bottom: 30px;
+    border-bottom: 1px solid #ccc; /* Add a border below each section for separation */
+    padding-bottom: 20px; /* Add padding below each section */
+}
+
+h2 {
+    color: #333;
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 10px; /* Increase margin between menu items */
+    font-size: 18px; /* Increase font size of menu items */
+    font-weight: bold; /* Make menu items bold */
+}
+
+.price
+
